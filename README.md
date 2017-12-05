@@ -1,1 +1,1 @@
-A template for ReactJS and Webpack minification.
+A template for ReactJS and Webpack minification for JS and CSS.
